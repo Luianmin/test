@@ -4,6 +4,5 @@ int main() {
     for(int i=a;a<0;a++){
         printf("%d\n", a);
     }
-    printf("Hello, World!\n");
     return 0;
 }
